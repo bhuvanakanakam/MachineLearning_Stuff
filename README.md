@@ -1,2 +1,2 @@
-# MachineLearning_Stuff
-machine learning related content, everything i encounter on. I wish to dump here as of now. 
+## Machine Learning
+This repository contains the tutorials needed to understand machine learning algorithms better.
